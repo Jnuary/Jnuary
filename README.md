@@ -33,10 +33,7 @@ Here are some ideas to get you started:
 <h3 align="center"> 📱 82-10-4084-8600</h3>
   
 </p>
-
-
-
-<p align="center">
-  [![Sia's github stats](https://github-readme-stats.vercel.app/api?username=Jnuary)](https://github.com/Jnuary)
-
-</p>
+<h3 align="center">
+  [![Jnuary github stats](https://github-readme-stats.vercel.app/api?username=Jnuary)](https://github.com/Jnuary)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jnuary&layout=compact)](https://github.com/Jnuary/github-readme-stats)
+</h3>
