@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=bluee"/></a>&nbsp 
-  <img src="hhttps://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp 
+  <img src="hhttps://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
   <!-- <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp <br>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>&nbsp 
@@ -49,6 +49,10 @@ Here are some ideas to get you started:
   <a href="https://www.discord.com/users/440360240601628672"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"><br>
   <a href="mailto:harry020105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp
    <a href="mailto:harry020104@naver.com"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"><br>
+</p>
+
+<h3 align="center"> 📱 82-10-4084-8600</h3>
+  
 </p>
 
 [![Sia's github stats](https://github-readme-stats.vercel.app/api?username=Jnuary)](https://github.com/Jnuary)
