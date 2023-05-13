@@ -46,8 +46,9 @@ Here are some ideas to get you started:
 <h3 align="center"> 📫 How to reach me: ...</h3>
 <p align="center">
   <a href="https://www.instagram.com/june_k02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">&nbsp
-  <a href="mailto:harry020105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br>
   <a href="https://www.discord.com/users/440360240601628672"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"><br>
+  <a href="mailto:harry020105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><br>
+   <a href="mailto:harry020104@naver.com"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"><br>
 </p>
 
 [![Sia's github stats](https://github-readme-stats.vercel.app/api?username=Jnuary)](https://github.com/Jnuary)
