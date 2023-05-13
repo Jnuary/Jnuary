@@ -34,5 +34,9 @@ Here are some ideas to get you started:
   
 </p>
 
-[![Sia's github stats](https://github-readme-stats.vercel.app/api?username=Jnuary)](https://github.com/Jnuary)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jnuary&layout=compact)](https://github.com/Jnuary/github-readme-stats) -->
+
+
+<p align="center">
+  [![Sia's github stats](https://github-readme-stats.vercel.app/api?username=Jnuary)](https://github.com/Jnuary)
+
+</p>
