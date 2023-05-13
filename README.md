@@ -39,17 +39,17 @@ Here are some ideas to get you started:
   <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp <br> -->
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
-  <img src="https://camo.githubusercontent.com/666c7343425b7657ae1a63e3827fe0f5b033cce190337fb5fbb341145f03497f/68747470733a2f2f72756e6b69742e696f2f626f6b75622f62616467652f6272616e636865732f6d61737465722f666f6c6c6f772532306d652f696e7374616772616d2f3833336162342d6664316431642d666362303435"/></a>&nbsp<br><br>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp <br>
+  <br>
 </p>
 
 <h3 align="center"> 📫 How to reach me: ...</h3>
 <p align="center">
   <a href="https://www.instagram.com/june_k02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">&nbsp
-  
-  <a href="harry020105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 
-  <a href="https://www.discord.com/users/440360240601628672"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"><br>
+  <a href="harry020105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp<br>
+
+  <a href="https://www.discord.com/users/440360240601628672"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">&nbsp<br>
 </p>
 
 [![Sia's github stats](https://github-readme-stats.vercel.app/api?username=Jnuary)](https://github.com/Jnuary)
