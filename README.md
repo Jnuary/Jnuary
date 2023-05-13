@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center"> 💻 Tech Stack 💻</h3>
-<h4 align="center"> Techs that I've used at least once</h4>
+<h4 align="center"> The most preferred tech</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=bluee"/></a>&nbsp 
